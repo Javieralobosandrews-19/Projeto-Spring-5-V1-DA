@@ -1,1 +1,41 @@
-# Projeto-Spring-5-V1-DA
+# Dashboard de anuncios de venta de autos
+
+Este proyecto consiste en una aplicación web interactiva desarrollada con Streamlit para explorar un conjunto de datos de anuncios de venta de vehículos.
+
+## Funcionalidades
+
+- Visualización de un histograma del kilometraje (odometer).
+- Gráfico de dispersión entre kilometraje y precio.
+- Interacción mediante botones o cajas de selección.
+
+## Tecnologías utilizadas
+
+- Python
+- Pandas
+- Plotly Express
+- Streamlit
+
+## Cómo ejecutar la aplicación
+
+# Dashboard de anuncios de venta de autos
+
+Este proyecto consiste en una aplicación web interactiva desarrollada con Streamlit para explorar un conjunto de datos de anuncios de venta de vehículos.
+
+## Funcionalidades
+
+- Visualización de un histograma del kilometraje (odometer).
+- Gráfico de dispersión entre kilometraje y precio.
+- Interacción mediante botones o cajas de selección.
+
+## Tecnologías utilizadas
+
+- Python
+- Pandas
+- Plotly Express
+- Streamlit
+
+## Cómo ejecutar la aplicación
+
+```bash
+streamlit run app.py
+
