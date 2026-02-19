@@ -3,7 +3,7 @@ import streamlit as st
 
 # Cargar los datos
 df = pd.read_csv('vehicles_us.csv')
-
+print(f"DF count: {df.count()}")
 # Título de la aplicación
 st.title('Análisis de Vehículos')
 
