@@ -39,3 +39,9 @@ Este proyecto consiste en una aplicación web interactiva desarrollada con Strea
 ```bash
 streamlit run app.py
 
+Aplicación Web
+
+La aplicación está disponible en:
+https://streamlit-app-da.onrender.com
+
+Este proyecto consiste en una aplicación web desarrollada con Streamlit que permite visualizar datos mediante histogramas y gráficos de dispersión.
